@@ -11,6 +11,7 @@ How to play with this web application on your device?
 
 	create database pmaster;
 	use pmaster;
+ 
 	Then use the file pmaster_create.sql to create tables.
 	And you may need to load table contents into the table garageinfo, garage, venue, and near (in this order).
 	(note: These data only contains 1 available spots for each garage on a few days 
@@ -19,8 +20,10 @@ How to play with this web application on your device?
 	Now, you have necessary data to play with.
 	Next, you need to create a user with name: 'phpuser' and password: 'phpwd'.
 	You may follow the following instructions to achieve that.
+ 
 	create user 'phpuser'@'127.0.0.1' identified by 'phpwd';
 	GRANT ALL PRIVILEGES ON pmaster TO 'phpuser'@'127.0.0.1';
+ 
 	(Reference: https://www.digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysql)
 	Don't forget to put all the other php files in your directory.
 	Start localhost and go to browser. The homepage is index.php.
@@ -31,7 +34,6 @@ Some instructions:
 	You will then be directed to a page where your previous reservations will be shown if there's any.
 	On the same page, you can select the available date to go to another page where all available garages will be shown with price, available spots number, and your preselected date. 
 	Also, there is a hyperlink for each of these garages where you can see distances to each venue if you clicked.
-
 	On the upper left corner of the homepage, there's a hyperlink to administrator page.
 	Administrator may enter a password to access a statistics page.
 	The default password is 123456 which is shown by a DEBUG note (can be removed for a commercial version).
