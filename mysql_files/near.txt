@@ -1,0 +1,9 @@
+Nationwide Arena	Columbus Commons	2
+COSI	Columbus Commons	4
+Huntington Park	Columbus Commons	8
+Nationwide Arena	City of Columbus	3
+COSI	City of Columbus	5
+Huntington Park	City of Columbus	6
+Nationwide Arena	Vine Street	1
+COSI	Vine Street	7
+Huntington Park	Vine Street	9

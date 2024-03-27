@@ -1,0 +1,14 @@
+Columbus Commons	2023-04-21	20.0	1
+Columbus Commons	2023-04-22	15.0	1
+Columbus Commons	2023-04-25	20.0	1
+Columbus Commons	2023-05-01	16.0	3
+Columbus Commons	2023-05-07	20.0	2
+City of Columbus	2023-04-21	10.0	1
+City of Columbus	2023-04-22	11.0	1
+City of Columbus	2023-04-25	12.0	1
+City of Columbus	2023-05-01	15.0	2
+City of Columbus	2023-05-07	16.0	5
+Vine Street	2023-04-21	12.0	1
+Vine Street	2023-04-22	15.0	1
+Vine Street	2023-04-25	14.0	1
+Vine Street	2023-05-03	14.0	4

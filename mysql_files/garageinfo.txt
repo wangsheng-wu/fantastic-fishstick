@@ -1,0 +1,3 @@
+Columbus Commons	55 E. Rich St.	100
+City of Columbus	141 N. Front St.	80
+Vine Street	45 Vine St.	40
